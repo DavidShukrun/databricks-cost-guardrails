@@ -63,7 +63,7 @@ Tags:               project, owner (in bundle code)
 2. Copy the skill folder:
 
    ```bash
-   git clone https://github.com/<you>/databricks-cost-guardrails
+   git clone https://github.com/DavidShukrun/databricks-cost-guardrails
    cp -r databricks-cost-guardrails/skills/databricks-cost-guardrails ~/.claude/skills/
    ```
 
